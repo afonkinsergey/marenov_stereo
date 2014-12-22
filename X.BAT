@@ -20,3 +20,4 @@ D:\marenov_stereo\roll_plate-Исследование 1
 D:\marenov_stereo\roll_plate-Исследование 1
 D:\marenov_stereo\roll_plate-Исследование 1
 D:\marenov_stereo\roll_plate-Исследование 1
+D:\marenov_stereo\yaw_horizont-Исследование 1
